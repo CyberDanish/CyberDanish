@@ -62,6 +62,46 @@ $ whoami
 
 ---
 
+### 🎬 Tool Preview
+
+<div align="center">
+
+**CyberDK Terminal Interface:**
+
+![CyberDK GUI Preview](https://user-images.githubusercontent.com/123456789/cyberdk-preview.png)
+
+> *Mockup: CyberDK wireless audit interface — dark terminal with green neon output*
+
+🎥 **Video Demo Coming Soon!**  
+[▶️ Watch Demo](#) • [📸 Screenshots](#) • [📖 Documentation](#)
+
+</div>
+
+---
+
+### 💻 Quick Install Preview
+```bash
+# Clone the repo
+$ git clone https://github.com/CyberDanish/wifite2
+Cloning into 'wifite2'...
+✓ Repository downloaded
+
+# Navigate to directory
+$ cd wifite2
+
+# Install dependencies
+$ sudo python3 setup.py install
+✓ Dependencies installed
+✓ Tool ready to use
+
+# Launch CyberDK
+$ sudo wifite2
+[+] CyberDK v1.0 initialized
+[+] Scanning for wireless networks...
+```
+
+---
+
 ### 💀 Arsenal
 
 <div align="center">
@@ -110,6 +150,25 @@ $ whoami
 
 ---
 
+### 🤝 Contributing
+
+```bash
+# Want to contribute? Here's how:
+$ git fork https://github.com/CyberDanish/wifite2
+$ git checkout -b feature/your-awesome-idea
+$ git commit -m "feat: add your awesome feature"
+$ git push origin feature/your-awesome-idea
+$ # Open a Pull Request 🚀
+```
+
+**Looking for:**
+- 🐛 Bug reports & fixes
+- 💡 Feature suggestions
+- 🌍 Translations
+- 📚 Documentation improvements
+
+---
+
 ### 📡 Secure Channels
 
 <div align="center">
@@ -136,6 +195,12 @@ $ whoami
 **[0x00] EOF** • `Last Updated: $(date)`
 
 </div>
+
+🎬 Watch Demo
+[▶️ Click to Watch on YouTube](https://youtube.com/your-video-link)
+
+<a href="https://youtube.com/your-video-link">
+  <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="500">
+</a>
 ```
 
----
