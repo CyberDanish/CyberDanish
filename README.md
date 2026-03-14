@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <pre class="ascii-art">
@@ -133,6 +132,6 @@ $ whoami
 </pre>
 
 **Made with** ❤️ **| Powered by** ☕ **| Secured by** 🔐  
-**[0x00] EOF** • `Last Updated: $(date)`
+**[0x00] EOF**
 
 </div>
