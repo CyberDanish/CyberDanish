@@ -1,9 +1,14 @@
+
+<div align="center">
+
+<pre class="ascii-art">
   ██████╗ ██╗  ██╗ ██████╗ ███████╗██████╗ 
  ██╔════╝ ╚██╗██╔╝██╔═══██╗██╔════╝██╔══██╗
  ██║       ╚███╔╝ ██║   ██║█████╗  ██████╔╝
  ██║       ██╔██╗ ██║   ██║██╔══╝  ██╔══██╗
  ╚██████╗ ██╔╝ ██╗╚██████╔╝███████╗██║  ██║
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+</pre>
 
 ### 🔐 Cybersecurity Researcher | Wireless Security Specialist | Python Developer
 
@@ -11,6 +16,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/CyberDanish/wifite2?style=for-the-badge&logo=github&color=00ff00&labelColor=0d1117)](https://github.com/CyberDanish/wifite2/stargazers)
 [![X/Twitter](https://img.shields.io/badge/X-@DKDaniish-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/DKDaniish)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danish--ali--4at-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/danish-ali-4at/)
+
+---
 
 </div>
 
@@ -130,3 +137,5 @@ $ whoami
 
 </div>
 ```
+
+---
